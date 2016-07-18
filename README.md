@@ -10,3 +10,6 @@ Unsynced change.
 =======
 changing again after commit?
 >>>>>>> refs/remotes/origin/test-branch
+
+
+This change is in only 3rd branch. 
